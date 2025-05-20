@@ -1,31 +1,30 @@
 
 
 ```markdown
-# 📚 Google Book React App
+#  Google Book React App
 
 This is a React-based frontend project built for the Tellis assignment. It demonstrates the use of React, Redux Toolkit, Tailwind CSS, and React Router DOM. Also features typing animation using `react-typed`.
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 📖 Book listing interface (customize accordingly)
-- 🧠 State management with Redux Toolkit
-- 🌀 Styling with Tailwind CSS
-- 🔁 Routing using React Router DOM
-- ⌨️ Typing effect with React Typed
-- 📦 Fully responsive and fast
+-  State management with Redux Toolkit
+-  Styling with Tailwind CSS
+-  Routing using React Router DOM
+-  Typing effect with React Typed
+-  Fully responsive and fast
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-- **React** (v18)
-- **Redux Toolkit**
-- **React Router DOM**
-- **Tailwind CSS**
-- **React Icons & Lucide**
-- **React Typed**
+- React
+- Redux Toolkit
+- React Router DOM
+- Tailwind CSS
+- React Icons & Lucide
+- React Typed
 
 
 

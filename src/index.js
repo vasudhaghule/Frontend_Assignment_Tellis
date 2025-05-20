@@ -2,7 +2,6 @@ import React from "react";
 import ReactDOM from "react-dom/client";
 import { Provider } from "react-redux";
 import { store } from "./app/store";
-import MortgageCalculator from "../src/Pages/calculator";
 import "./index.css"
 import App from "./App";
 

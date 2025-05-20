@@ -1,8 +1,4 @@
-Yeh raha ek basic `README.md` file jo tere React + Tailwind + Redux + React Router + React Typed based project ke liye fit rahega. Tu isme apne project ka naam aur details customize kar sakta hai:
 
----
-
-### 📘 `README.md`
 
 ```markdown
 # 📚 Google Book React App

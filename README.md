@@ -31,30 +31,11 @@ This is a React-based frontend project built for the Tellis assignment. It demon
 - **React Icons & Lucide**
 - **React Typed**
 
----
 
-## 📂 Folder Structure
-
-```
-
-├── public/
-├── src/
-│   ├── assets/
-│   ├── components/
-│   ├── pages/
-│   ├── redux/
-│   ├── App.js
-│   ├── index.js
-│   └── ...
-├── tailwind.config.js
-├── package.json
-└── README.md
-
-````
 
 ---
 
-## 🧪 Running Locally
+##  Running Locally
 
 Clone the project:
 
@@ -75,36 +56,4 @@ Run the development server:
 npm start
 ```
 
----
 
-## ⚙️ Build for Production
-
-```bash
-npm run build
-```
-
----
-
-## 📸 Preview
-
-Add screenshots or demo gifs here.
-
----
-
-## 🙋‍♀️ Author
-
-* **Vasudha Ghule**
-  [GitHub](https://github.com/vasudhaghule) | [LinkedIn](https://linkedin.com/in/vasudhaghule)
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
-```
-
----
-
-Agar tu specific feature section, API usage, screenshots ya deployment instructions add karna chahe toh bata dena, main aur customize kar dunga.
-```
